@@ -1,0 +1,18 @@
+{
+  "name": "iothost/phpresponse",
+  "description": "Simple PHP class for handling HTTP response right way.",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "berkas1",
+      "email": "berka@berkasimon.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Iothost\\PhpResponse\\": "src"
+    }
+  }
+}
